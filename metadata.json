@@ -1,0 +1,6 @@
+{
+  "name": "Smart ERP — QR Attendance & Academic Management",
+  "description": "College ERP system with Admin, Teacher, and Student portals, rotating QR-code attendance verification, automated 75% attendance deficit recovery calculations, timetables, leave approvals, and CSV reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
